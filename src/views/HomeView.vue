@@ -4,20 +4,20 @@
       <div class="land-name my-auto">
         <h1 class="name">Cheslyn Herman</h1>
         <div class="words">
-          <div >
+          <div>
             <h3 class="land-words">Innovative</h3>
           </div>
-          <div >
+          <div>
             <h3 class="land-words">Confident</h3>
           </div>
-          <div >
+          <div>
             <h3 class="land-words">Determined</h3>
           </div>
         </div>
       </div>
       <div class="land-image">
         <img
-          src="https://i.postimg.cc/TwrgLFrf/Blue-Beige-Minimalist-Smear-Elegant-Initials-Monogram-Logo-5.png"
+          src="https://i.postimg.cc/05cYv7dG/Blue-Beige-Minimalist-Smear-Elegant-Initials-Monogram-Logo-5-removebg-preview.png"
           class="logoImg"
         />
       </div>
@@ -36,7 +36,6 @@ export default {
   background-color: #1b1717;
   color: #f6f2d4;
   height: 75vh;
-  
 }
 .logoImg {
   height: 450px;
@@ -44,7 +43,7 @@ export default {
 .land-name {
   align-items: center;
   margin-left: 50px;
-  font-family: 'Bebas Neue', sans-serif;
+  font-family: "Bebas Neue", sans-serif;
 }
 .home {
   display: flex;
@@ -52,7 +51,8 @@ export default {
   align-items: center;
   padding: 20px;
 }
-.land-name, .land-image {
+.land-name,
+.land-image {
   width: 50%;
 }
 .name {
